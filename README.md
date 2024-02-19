@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I spend *way* too much work on my website, and haven't used github in a while.
 <!--
 **magentapenguin/magentapenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
